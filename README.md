@@ -5,6 +5,6 @@
 #### The texts of the Maroon Viewpoints can be used in a number of ways:
 1. topic modeling (LDA, NMF etc.) to get a sense of what topics people commonly write on.
 2. sentiment analysis using a pretrained Sentiment Analyzer.
-3. count word frequencies.
+3. counting word frequencies.
 4. part-of-speech tagging using a pretrained POS tagger, etc.
 
